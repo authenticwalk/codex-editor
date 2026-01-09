@@ -1087,7 +1087,7 @@
         "path": "^0.12.7",
         "pdf-lib": "^1.17.1",
         "pdf-parse": "^1.1.1",
-        "pdfjs-dist": "4.0.379",
+        "pdfjs-dist": "4.2.67",
         "pnpm": "^8.15.5",
         "proc-log": "^5.0.0",
         "react-wordcloud": "^1.2.7",
